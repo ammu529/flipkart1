@@ -1,6 +1,6 @@
-public staic userlogin.java{
-public static void main(string args[]);
-i=30;
-j=10;
-Sysytem.out.println(sum=40);
+public static userlogin{
+public static void main(strings args[]){
+i=10;
+j=20;
+System.out.println(sum =30);
 }}
